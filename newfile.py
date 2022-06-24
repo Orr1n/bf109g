@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print (11111 * 1111111)
+print (42/(4+2*(-2)))
