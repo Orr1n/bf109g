@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
 
-print (42/(4+2*(-2)))
+X = int(input())
+Y = X//60
+print (X//60)
+print (X - (Y*60))
